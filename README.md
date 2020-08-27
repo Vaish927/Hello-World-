@@ -2,4 +2,4 @@
 The First Repository
 
 
-Folloeint the Guide.
+Following the Guide.
